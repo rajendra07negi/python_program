@@ -1,3 +1,3 @@
-name = ['rajendra','amit','ravi']
-for i in name:
+x = 10
+for i in range(x):
     print(i)
